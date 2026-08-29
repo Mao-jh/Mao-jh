@@ -1,6 +1,6 @@
 # 你好，我是 Mao-jh 👋
 
-独立开发者。主线：做「**AI 对话里直接用、按次付费**」的垂直预审工具（支付宝 AI 收 · A2M/402 按量付费，2026-12-31 前个人 0 费率）；副线：Rust / C# 效率小工具。
+独立开发者。主线：做「**AI 对话里直接用、按次付费**」的垂直预审工具（支付宝 AI 收 · A2M/402 按量付费，2026-12-31 前个人 0 费率）；副线：Rust 效率工具。
 
 ## 💰 按次付费 AI Skill 矩阵
 
@@ -31,8 +31,6 @@ git clone https://github.com/Mao-jh/hk-bank-precheck.git ~/.claude/skills/hk-ban
 ## 🧰 其他项目
 
 - [Ocli](https://github.com/Mao-jh/Ocli) — 通过 Chrome DevTools Protocol 远程控制 OpenCode Desktop 的 CLI（Rust，已发布 crates.io）
-- [ClaudeCodeRightClick](https://github.com/Mao-jh/ClaudeCodeRightClick) — Windows 11 右键菜单一键启动 Claude Code（C# / .NET 9）
-- [TurboGrid](https://github.com/Mao-jh/TurboGrid) — 下一代 RUDP 可靠 UDP 协议实现（Rust，AGPL-3.0，含 bench 与 fuzz）
 
 ---
 
